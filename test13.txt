@@ -1,11 +1,12 @@
 hu
-<<<<<<< HEAD
+
 1dd
 
 dddd
 dddd
 dd
 dd
-=======
+
 1
->>>>>>> 4da9eefcd640236dbf10406058a19e1ed87a1a4a
+
+dddd
